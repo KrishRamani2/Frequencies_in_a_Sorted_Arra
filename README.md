@@ -1,1 +1,18 @@
-# Frequencies_in_a_Sorted_Arra
+# Frequencies_in_a_Sorted_Array
+This includes problem on  Frequencies_in_a_Sorted_Array
+Given a sorted array, arr[] consisting of N integers, the task is to find the frequencies of each array element.
+Examples: 
+
+Input: arr[] = {1, 1, 1, 2, 3, 3, 5, 5, 8, 8, 8, 9, 9, 10} 
+Output:       Frequency of 1 is: 3
+              Frequency of 2 is: 1
+              Frequency of 3 is: 2
+              Frequency of 5 is: 2
+              Frequency of 8 is: 3
+              Frequency of 9 is: 2
+              Frequency of 10 is: 1
+Input: arr[] = {2, 2, 6, 6, 7, 7, 7, 11} 
+Output:        Frequency of 2 is: 2
+               Frequency of 6 is: 2
+               Frequency of 7 is: 3
+               Frequency of 11 is: 1
